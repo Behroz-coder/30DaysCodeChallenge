@@ -1,12 +1,23 @@
 # 30DayChallenge
+
+
 day1- Calculator
+
 day2- Comming Soon page
+
 day3- Color Switcher
+
 day4- BMI Calculator
+
 day5- Clock
+
 day6- Blurry Loading
+
 day7- Guessing Number Game
+
 day8- QR code Generator
+
+
 # 30 Day Challenge
 
 Welcome to the 30-Day Challenge projects! This is a simple web application built using HTML, CSS, and JavaScript, aimed at helping you track and complete your 30-day challenges effectively.
